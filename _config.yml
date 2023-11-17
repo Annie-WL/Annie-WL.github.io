@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-Ireland"
-title                    : "Jeremy's site"
+title                    : "Annie's site"
 title_separator          : "-"
-name                     : &name "Jeremy Ja"
+name                     : &name "Annie Liu"
 description              : &description "personal description"
-url                      : https://jeremywikim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Annie-WL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jeremywikim/Jeremywikim.github.io"
+repository               : "Annie-WL/Annie-WL.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeremy"
+  name             : "Annie"
   avatar           : "profile.jpg"
   bio              : "Full stack learning"
   location         : "Dublin, Ireland"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "jeremywikim@gmail.com"
+  email            : "wanchen.liu00@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jeremywikim"
+  github           : "Annie-WL"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "269Jeremy"
+#  twitter          : "269Jeremy"
   vine             :
   weibo            :
   xing             :

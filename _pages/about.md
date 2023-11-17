@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website to note what I learned and thought about CS.
+This is my personal website about CS learning.
 
-A  personal website
+Welcome to my website.
 ======
 
